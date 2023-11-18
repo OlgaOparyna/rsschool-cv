@@ -7,8 +7,8 @@
 - Location: Minsk, Belarus
 - Phone: +37533 657 75 19
 - e-mail: olka-rb@yandex.ru
-- GitHub: [OlgaOparyna]("https://github.com/OlgaOparyna")
-- LinkedIn: [volha-aparyna]("https://www.linkedin.com/in/volha-aparyna")
+- GitHub: [OlgaOparyna](https://github.com/OlgaOparyna)
+- LinkedIn: [volha-aparyna](https://www.linkedin.com/in/volha-aparyna)
 - Discord: Olga (@OlgaOparyna)
 
 ## About me
@@ -49,7 +49,7 @@ During the implementation of the project, the following were carried out:
 - authorization through Firebase;
 - tools: React, Redax toolkit, Redux-Saga, TypeScript;
 - pagination when searching.
-  You can get acquainted with the project [here]("https://github.com/OlgaOparyna/Bookstore")
+  You can get acquainted with the project [here](https://github.com/OlgaOparyna/Bookstore)
 
 ## Education
 
